@@ -1,0 +1,64 @@
+* {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+
+    background-color: rgb(49, 215, 215);
+}
+
+h1 {
+
+    text-align: center;
+    color: black;
+    padding: 10px;
+    border: 3px rgb(157, 148, 148);
+    border-radius: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+}
+
+input {
+
+    background-color: white;
+}
+
+#description {
+
+    text-align: center;
+    background-color:lightgrey;
+    padding: 5px
+}
+
+textarea {
+    background-color: white;
+    border-width: 2px;
+    border-style: insert;
+    border-color: rgb(157, 148, 148);
+}
+
+form {
+    padding-left: 20px;
+    color: rgb(17, 1, 1);
+    padding: 5px;
+    background-color: aquamarine;
+    border: 3px solid lightgray;
+    border-radius: 5px;
+
+}
+
+button{
+    background-color: white;
+    color: black;
+    padding: 5px;
+}
